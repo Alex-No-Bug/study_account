@@ -24,3 +24,27 @@ cat t1.py >> t2.py
 cat t1.py
 
 
+
+
+
+
+
+
+.........................................................................
+Git
+1. 
+cd E:
+cd E:/study
+git config --global user.name zq
+$ git config --global user.email "3068779985@qq.com"
+$ git pull --rebase origin master
+$ git push origin master
+git push -u origin master
+
+git commit -am "change5"  #进行更改
+git push -u origin master
+
+
+
+
+
