@@ -2,5 +2,6 @@
 roscore
 rosrun turtlesim turtlesim_node
 rosrun turtlesim_teleop_key
+gygygygygygygygy
 
 
